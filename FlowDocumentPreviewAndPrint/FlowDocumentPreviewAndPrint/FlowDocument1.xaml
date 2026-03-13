@@ -3,6 +3,8 @@
               ColumnWidth="400" FontSize="14" FontFamily="Georgia">
     <Paragraph>
         <Image Source="jk.png"></Image>
+        <Image Source="DemonSlayer.jpg">
+        </Image>
     </Paragraph>
     <Paragraph>
         <Run>Hello World</Run>
